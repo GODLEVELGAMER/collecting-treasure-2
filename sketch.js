@@ -77,7 +77,7 @@ function draw() {
         
         boy.addAnimation("SahilRunning",endImg);
         boy.x=width/2;
-        boy.y=height-20;
+        boy.y=height-100;
         boy.scale=0.6;
         
         cashG.destroyEach();
